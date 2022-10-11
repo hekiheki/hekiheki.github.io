@@ -1,1 +1,1 @@
-# hekiheki.guthub.io
+# hekiheki.github.io
