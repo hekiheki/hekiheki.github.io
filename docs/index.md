@@ -17,7 +17,7 @@ layout: default
   - React
 - Node
 - TypeScript
-  - [Type Challenges](./_posts/typescript/type-challenges.html)
+  - [Type Challenges]({% post_url /typescript/2022-12-28-type-challenges %})
 - 前端工程化
 - HTTP
 - 性能优化
@@ -38,4 +38,4 @@ layout: default
 
 ## 年度计划
 
-- [2023](./_posts/plans/2023.html)
+- [2023]({% post_url /plans/2023-01-04-plan %})

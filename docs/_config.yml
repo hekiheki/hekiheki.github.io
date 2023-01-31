@@ -1,8 +1,4 @@
 title: 富贵
 description: 程序员笔记.
-show_downloads: false
 google_analytics: false
 theme: jekyll-theme-cayman
-
-github:
-  is_project_page: false

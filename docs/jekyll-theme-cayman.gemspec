@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.summary       = "Cayman is a Jekyll theme for GitHub Pages"
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
-    f.match(%r{^((_includes|_posts|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
+    f.match(%r{^((_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
   end
 
   s.required_ruby_version = ">= 2.4.0"
