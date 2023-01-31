@@ -1,11 +1,9 @@
 ---
 layout: default
-title: About page
-description: This is just another page
+title: About me
+description: (*^▽^*)
 ---
 
-## Welcome to another page
-
-_yay_
+emmm, that's all.
 
 [back](./)
