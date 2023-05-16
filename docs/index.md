@@ -6,7 +6,7 @@ layout: default
 
 ## 前端相关
 
-一些前端方面的基础知识回顾。
+<!-- 一些前端方面的基础知识回顾。
 
 - HTML
 - CSS
@@ -15,14 +15,14 @@ layout: default
 - 前端框架
   - Vue
   - React
-- Node
+- Node -->
 - TypeScript
   - [Type Challenges]({% post_url /typescript/2022-12-28-type-challenges %})
-- 前端工程化
+<!-- - 前端工程化
 - HTTP
-- 性能优化
+- 性能优化 -->
 
-## 数据库
+<!-- ## 数据库
 
 ## 服务器相关
 
@@ -34,8 +34,13 @@ layout: default
 - Docker
 - Jenkins
 - css 兼容性的一些解决方法
-- 环境问题
+- 环境问题 -->
 
 ## 年度计划
 
 - [2023]({% post_url /plans/2023-01-04-plan %})
+
+
+## 项目总结
+
+- [project-react/nodejs/typescript]({% post_url /projects/2023-05-16-react-node-typescript-project %})
