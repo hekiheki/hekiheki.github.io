@@ -2,45 +2,23 @@
 layout: default
 ---
 
-希望能坚持记录。
+基础知识常看常新。
+俗话说“活到老学到老”，随着科技的发展，工作中和生活中，要学习的时刻比比皆是。工作中要学习新技术，规划自己的职业发展；生活中要学习新的生活技能，调整生活方式。学习将是陪伴一生的事情。
+在这里为自己做一些记录。
 
-## 前端相关
-
-<!-- 一些前端方面的基础知识回顾。
-
-- HTML
-- CSS
-- JavaScript
-- 浏览器/Web API
-- 前端框架
-  - Vue
-  - React
-- Node -->
-- TypeScript
-  - [Type Challenges]({% post_url /typescript/2022-12-28-type-challenges %})
-<!-- - 前端工程化
-- HTTP
-- 性能优化 -->
-
-<!-- ## 数据库
-
-## 服务器相关
-
-## 其他
-
-- Drupal
-- 常用 linux 命令
-- Azure AD B2C
-- Docker
-- Jenkins
-- css 兼容性的一些解决方法
-- 环境问题 -->
-
-## 年度计划
-
-- [2023]({% post_url /plans/2023-01-04-plan %})
+## [Web 开发技术](https://developer.mozilla.org/zh-CN/docs/Web)
+  - [JavaScript]({% post_url /javascript/2023-06-01-Javascript %})
+  - HTTP
+  - TypeScript
+    - [Type Challenges]({% post_url /typescript/2022-12-28-type-challenges %})
+## 语言学习记录
+## 心理健康和成长
+## 实用的快手菜谱
+## 一些读后感
+## 游记
 
 
-## 项目总结
 
-- [project-react/nodejs/typescript]({% post_url /projects/2023-05-16-react-node-typescript-project %})
+
+
+
